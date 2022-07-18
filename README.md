@@ -18,4 +18,5 @@ gasdasf.com
 192.168.18.257
 ```
 - Running pingmul
-<div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179492778-fd854f63-b1b8-4156-a2a7-30498972f4e3.png" width=500px></div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179493452-926e1d9e-60aa-4153-8006-fef4dd68a82d.png" width=500px></div>
+
