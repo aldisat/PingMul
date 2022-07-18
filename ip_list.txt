@@ -1,0 +1,6 @@
+google.com
+wikipedia.com
+gasdasf.com
+111.111.111.111
+192.168.18.1
+192.168.18.257
