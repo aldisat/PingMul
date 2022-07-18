@@ -1,6 +1,6 @@
 # PingMul
 
-Ping multiple IPs menggunakan Python. Bisa digunakan untuk windows atau pun unix.
+Ping multiple IPs menggunakan Python. Bisa digunakan untuk Windows dan Unix.
 
 ## How to
 1. Masukkan ip target pada file `ip_list.txt`
