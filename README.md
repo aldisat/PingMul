@@ -1,6 +1,6 @@
 # PingMul
 
-Multiple Ping menggunakan Python
+Ping multiple IPs menggunakan Python
 
 ## How to
 1. Masukkan ip target pada file `ip_list.txt`
