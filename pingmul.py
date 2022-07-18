@@ -20,3 +20,5 @@ for ip in park:
         kumpul += ip + " is down!\n"
 
 print(kumpul)
+
+#Copyright © 2022 Aldi Satria. All rights reserved.
