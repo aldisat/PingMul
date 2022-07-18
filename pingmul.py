@@ -7,7 +7,7 @@ with open("ip_list.txt") as file:
     print(f" {park}  \n")
 
 param = "-n" if platform.system().lower()=="windows" else "-c"
-kumpul = ""
+kumpul = "\n"
 
 for ip in park:
     response = os.system("ping " + param + " 1 " + ip)
