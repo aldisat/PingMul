@@ -13,7 +13,7 @@ gasdasf.com
 192.168.18.1
 192.168.18.257
 ```
-- Running pingmul.py
+2. Running pingmul.py
 <div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179735180-63a5d44b-6125-4b09-ab14-fb6b3ce7b947.png" width=500px></div>
 
 ## Ask Me!
