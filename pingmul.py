@@ -6,7 +6,8 @@ park = []
 for line in fileinput.input():
     park.append(line.rstrip())
 
-print(park + "\n")
+print(park)
+print("\n")
 
 param = "-n" if platform.system().lower()=="windows" else "-c"
 kumpul = "\n"
