@@ -3,13 +3,13 @@
 Ping multiple IPs menggunakan Python. Bisa digunakan untuk Windows dan Unix.
 
 ## How to
-1. Masukkan ip target pada file `ip_list.txt`
+1. Masukkan daftar ip target pada file tertentu
 2. Jalankan `python3 pingmul.py`
 
 ## Example
 - Ip target
 ```
-$ cat ip_list.txt 
+$ cat iplistexample.txt 
 google.com
 wikipedia.com
 gasdasf.com
