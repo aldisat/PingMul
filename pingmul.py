@@ -1,10 +1,12 @@
 import os
 import platform
+import fileinput
 
-with open("ip_list.txt") as file:
-    park = file.read()
-    park = park.splitlines()
-    print(f" {park}  \n")
+park = []
+for line in fileinput.input():
+    park.append(line.rstrip())
+
+print(park)
 
 param = "-n" if platform.system().lower()=="windows" else "-c"
 kumpul = "\n"
