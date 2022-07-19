@@ -1,13 +1,9 @@
 # PingMul
 
-Ping multiple IPs menggunakan Python. Bisa digunakan untuk Windows dan Unix.
+Ping multiple IPs using Python. Works for Windows and Unix.
 
 ## How to
-1. Masukkan daftar ip target pada file tertentu
-2. Jalankan `python3 pingmul.py`
-
-## Example
-- Ip target
+1. Create a file containing the list of ip's you want to ping
 ```
 $ cat iplistexample.txt 
 google.com
@@ -18,7 +14,8 @@ gasdasf.com
 192.168.18.257
 ```
 - Running pingmul
-<div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179493452-926e1d9e-60aa-4153-8006-fef4dd68a82d.png" width=500px></div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179734216-c5811f7d-f23e-4672-a1ab-521125326d60.png" width=500px></div>
+
 
 ## Ask Me!
 Aldi on [Twitter](https://twitter.com/aldi__satria) or [Instagram](https://www.instagram.com/aldi___satria/)
