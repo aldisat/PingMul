@@ -1,9 +1,9 @@
 # PingMul
 
-Ping multiple IPs using Python. Works for Windows and Unix.
+Ping every IPs address in a text file using Python. Works for Windows and Unix.
 
 ## How to
-1. Create a file containing the list of ip's you want to ping
+1. Create a text file containing the list of ip's you want to ping
 ```
 $ cat iplistexample.txt 
 google.com
