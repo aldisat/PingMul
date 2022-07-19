@@ -1,6 +1,6 @@
 # PingMul
 
-Ping every IPs address in a text file using Python. Works for Windows and Unix.
+Ping every IPs and domains in a text file using Python. Works for Windows and Unix.
 
 ## How to
 1. Create a text file containing the list of IP's you want to ping
