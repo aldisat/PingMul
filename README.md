@@ -16,6 +16,10 @@ gasdasf.com
 2. Running pingmul.py
 <div align="center"> <img src="https://user-images.githubusercontent.com/52058660/179735180-63a5d44b-6125-4b09-ab14-fb6b3ce7b947.png" width=500px></div>
 
+## Soon!
+- Set number of request
+- Ping base on subnet 
+
 ## Ask Me!
 Aldi on [Twitter](https://twitter.com/aldi__satria) or [Instagram](https://www.instagram.com/aldi___satria/)
 
